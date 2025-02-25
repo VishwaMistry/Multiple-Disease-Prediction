@@ -1,0 +1,6 @@
+
+    Health Prediction Report for vishwa
+    ---------------------------------------
+    Prediction: Not Diabetic
+    Risk Level: Low Risk
+    

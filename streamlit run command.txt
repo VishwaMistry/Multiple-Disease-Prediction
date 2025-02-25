@@ -1,0 +1,1 @@
+streamlit run "C:\Users\Vishwa\DAIICT\DAIICT\multiple_disease_pred.py"
